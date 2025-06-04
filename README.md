@@ -1,4 +1,5 @@
 # BDM Enhancement Simulator
+⚠️ **THIS IS A HUGE SPAGHETTI CODE**
 ### welcome!
 made by Mahvay (or "Mva" if you like the shorter word), welcome to this program's GitHub page.
 
