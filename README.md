@@ -20,7 +20,7 @@ the "BDM Enhancement Simulator" is a program that simulates Black Desert Mobile'
 
 ## trivia
 1. I made this for the sole purpose of checking how much of "reverse RNG" debuff I had when I failed level 310 rift stone 5 times *AT 90% RATE*. I also had nothing interesting to do so I started making this spaghetti code.
-2. file has 613 lines, all of them have PEP8-compliant width and the file's size on disk is 23.6KiB (kibibytes, aka TRUE kilobytes)
+2. file has 613 lines, all of them have PEP8-compliant width and the file's size on disk is 23.4KiB (kibibytes, aka TRUE kilobytes)
 
 # credits
 ## IDEs used to make all of the things I mentioned above happen
