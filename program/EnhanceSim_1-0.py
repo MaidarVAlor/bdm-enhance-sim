@@ -603,7 +603,7 @@ while input_command != "EXIT" or input_command != "exit":
     else:
         continue  # ...or continue it
 
-print('\n' * 100)
+print('\n' * 100)  # clean terminal/command-prompt screen in low-effort way
 print("heyyyyy, thank you for using my enhancement simulator!", " ", "you can find me in other places too!", sep='\n')
 print("> BDM - Mairad",
       "> discord - mvathemage",
