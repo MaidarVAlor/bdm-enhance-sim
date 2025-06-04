@@ -7,7 +7,7 @@
 import random
 import time
 
-input_command = 0 # technical values
+input_command = 0  # technical values
 exit_command = 0
 exit_function = 0
 
@@ -385,6 +385,7 @@ def acc_enhance():
                 print(f"failed. +{x}")
     return x, att
 
+
 def rift_enhance():
     rates = [700, 600, 500, 300, 150, 100, 50, 30, 20, 10]
     x = 0
@@ -415,6 +416,7 @@ def rift_enhance():
             else:
                 print(f"failed. +{x}")
     return x, att
+
 
 # CAUTION: HUGE LOOP WALL OF TEXT AHEAD
 
