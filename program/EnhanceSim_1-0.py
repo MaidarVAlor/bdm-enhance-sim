@@ -154,10 +154,8 @@ def enhancement_type():
 
 
 # POLSKA GUROM TIME!
-# 1. in Elden Ring, if you defeat Malenia, you will be welcomed with a victory text "ZABITO BOGA". that's because...
-#    ...tłumacz przetłumaczył to zbyt dosłownie z języka angielskiego, and it became a meme in the r/EldenRing subreddit
-# 2. in the Polish WW2-themed series "Czterej pancerni i pies", załoga walczyła w dwóch czołgach: T-34...
-#    ...i T-34/85. the 2nd one can be easily distinguished by having larger turret and fuel tanks on the sides
+# in Elden Ring, if you defeat Malenia, you will be welcomed with a victory text "ZABITO BOGA". that's because...
+# ...tłumacz przetłumaczył to zbyt dosłownie z języka angielskiego, and it became a meme in the r/EldenRing subreddit
 
 # enhancement functions
 def enhance_adjustable(x):
