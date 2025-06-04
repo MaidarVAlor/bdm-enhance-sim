@@ -28,7 +28,7 @@ the "BDM Enhancement Simulator" is a program that simulates Black Desert Mobile'
 
 # release information
 ## download contents
-the `.py` file is the whole program, you can view it's source _here_
+the `.py` file is the whole program, you can view it's source [here](https://github.com/MaidarVAlor/bdm-enhance-sim/blob/main/program/EnhanceSim_1-0.py)
 ## installation
 * if you are on Windows, simply double-click the script file to run it!
 * in case where Linux is used, open terminal in the place where your downloaded file is and run `python EnhanceSim_<VERSION>.py`.
