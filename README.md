@@ -32,3 +32,6 @@ the `.py` file is the whole program, you can view it's source _here_
 ## installation
 * if you are on Windows, simply double-click the script file to run it!
 * in case where Linux is used, open terminal in the place where your downloaded file is and run `python EnhanceSim_<VERSION>.py`.
+
+# legal information
+the following repository and the program itself are NOT affilated with Pearl Abyss
